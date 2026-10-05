@@ -21,7 +21,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/astikgupta/devsync-ai.git
+   git clone [https://github.com/Akash12219737/Devsync.git]
    ```
 2. **Setup Backend**:
    - `cd backend`
