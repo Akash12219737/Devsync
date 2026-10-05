@@ -35,4 +35,4 @@
    - `npm run dev`
 
 ---
-Built with ❤️ by [Astik Gupta](https://github.com/astikgupta)
+Built with ❤️ by [Akash]
